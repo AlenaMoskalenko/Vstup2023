@@ -1,0 +1,7 @@
+[core]
+	autocrlf = true
+	safecrlf = warn
+	editor = 'C:/Program Files (x86)/Notepad++/notepad++.exe' -multiInst -nosession
+[user]
+	name = Alona Moskalenko
+	email = alenarizhova@gmail.com
